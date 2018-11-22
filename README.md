@@ -6,4 +6,6 @@
 
 Prepared for the _2018 ASA Symposium on Data Science and Statistics_ 
 
+Available [here](https://arxiv.org/abs/1805.03735).
+
 Data required for the replication, _CIC IDS 2017_, ar available from the [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/ids-2017.html).
