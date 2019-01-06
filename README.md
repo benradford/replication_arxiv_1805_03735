@@ -9,3 +9,7 @@ Prepared for the _2018 ASA Symposium on Data Science and Statistics_
 Available [here](https://arxiv.org/abs/1805.03735).
 
 Data required for the replication, _CIC IDS 2017_, are available from the [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/ids-2017.html).
+
+This code is intended for Python 2.7 and Keras with Tensorflow as the backend.
+
+__To Do:__ Add full requirements list with modules and recommended version numbers.
