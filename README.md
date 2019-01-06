@@ -2,8 +2,8 @@
 
 ## Sequence Aggregation Rules for Anomaly Detection in Computer Network Traffic
 
-[Benjamin J. Radford](https://benradford.github.io), Bartley D. Richardson, Shawn E. Davis 
-Prepared for the _2018 ASA Symposium on Data Science and Statistics_ 
+[Benjamin J. Radford](https://benradford.github.io), Bartley D. Richardson, Shawn E. Davis  
+Prepared for the _2018 ASA Symposium on Data Science and Statistics_  
 Paper available [here](https://arxiv.org/abs/1805.03735).
 
 ### Requirements
